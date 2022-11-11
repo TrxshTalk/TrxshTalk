@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TrxshTalk
+- 👋 Hi, I’m David
 - 👀 I’m interested in creating new Stuff
 - 🌱 I’m currently learning HTML, CSS & JavaScript
 - 💞️ I’m looking to collaborate on ???
